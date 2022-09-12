@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Hugo (musosy)</h1>
 <h3 align="center">A passionate fullstack junior developper from France</h3>
 
-- 🔭 I’m currently working on **Symfony**
+- 🔭 I’m currently working on **PHP** and **Typescript**
 
-- 🌱 I’m currently learning **React, Node.js and GraphQL**
+- 🌱 I’m currently learning **Rust**
 
 
 <h3 align="left">Languages and Tools:</h3>
